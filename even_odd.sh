@@ -5,7 +5,7 @@ read a
 
 if [ a %2 -eq 0 ]
 then
-	echo "Even"
+	echo "The given number is even"
 else
-	echo "odd"
+	echo "The given number is odd"
 fi
