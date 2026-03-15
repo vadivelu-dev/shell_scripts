@@ -6,3 +6,5 @@ c=$((a-b))
 echo "substraction of $a and $b is $c"
 echo " done "
 echo "this should conflict"
+
+echo "echo"
