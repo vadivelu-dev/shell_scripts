@@ -2,7 +2,7 @@ pipeline {
 	agent any
 
 	stages {
-		Stage ("git to jenkins") {
+		stage ("git to jenkins") {
 			steps {
 				echo " hi vadi "
 				}
